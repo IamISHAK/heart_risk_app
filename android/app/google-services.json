@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151972202399",
+    "project_id": "heartriskapp-1f730",
+    "storage_bucket": "heartriskapp-1f730.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151972202399:android:880f72183e43f503ba1faa",
+        "android_client_info": {
+          "package_name": "com.example.heart_risk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Z2ivSE4HsASfm9Q5KboR0D3uglUtFws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
